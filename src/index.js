@@ -6,7 +6,7 @@ import App from './App'
 import reportWebVitals from './reportWebVitals'
 import { Provider } from 'react-redux'
 import store from './store'
-
+import Web3 from 'web3'
 // var Web3 = require('web3')
 
 function checkMetamask() {
